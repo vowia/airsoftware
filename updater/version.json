@@ -1,4 +1,8 @@
 {
-  "version": "3.1.0",
-  "download": "https://raw.githubusercontent.com/airsoftware/updater/main/latest.zip"
+  "version": "3.2.0",
+  "download": "https://github.com/vowia/airsoftware/releases/latest",
+  "files": {
+    "index.js": "https://raw.githubusercontent.com/vowia/airsoftware/main/index.js",
+    "config.json": "https://raw.githubusercontent.com/vowia/airsoftware/main/config.json"
+  }
 }
